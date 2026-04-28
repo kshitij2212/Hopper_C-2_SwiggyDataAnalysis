@@ -1,0 +1,7 @@
+pandas
+notebook
+matplotlib
+seaborn
+scipy
+pathlib
+logging
