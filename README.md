@@ -263,16 +263,3 @@ jupyter notebook
 
 ---
 
-## Team & Contributions
-
-**Team Name:** Hopper | **Section:** C-2 | **Project:** Swiggy Food Delivery Analysis
-
-| Member | Role | Key Contributions |
-|---|---|---|
-| *(Member 1)* | Project Lead & ETL | Raw data sourcing, cleaning pipeline, GitHub setup |
-| *(Member 2)* | EDA & Visualization | `03_eda.ipynb`, all EDA figures |
-| *(Member 3)* | Statistical Analysis | `04_statistical_analysis.ipynb`, hypothesis testing |
-| *(Member 4)* | Tableau Dashboard | Dashboard design, KPI framework |
-| *(Member 5)* | Reporting & Docs | Final report, README, data dictionary |
-
-> All contributions are verifiable via GitHub Insights and pull request history.
